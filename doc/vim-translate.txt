@@ -1,0 +1,11 @@
+*vim-tranlate* plugin that translate the current word or selection to the language of your choice using deepL API
+
+Author: LordPax
+
+INTRODUCTION
+
+This plugin allows you to translate the current word or selection to the language of your choice using deepL API.
+
+COMMANDS
+
+:Translate <target_language> [source_language]
