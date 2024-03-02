@@ -8,4 +8,4 @@ This plugin allows you to translate the current word or selection to the languag
 
 COMMANDS
 
-:Translate <target_language> [source_language]
+:[range]Translate <target_language> [source_language]
