@@ -13,5 +13,5 @@ Plug 'LordPax/vim-translate'
 ## Usage
 
 ```
-:[range]Translate <target_language> [source_language]      Translate the selection to the target language.
+:[range]Translate <targetLang> [sourceLang]      Translate the selection to the target language.
 ```
